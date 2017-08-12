@@ -1,0 +1,1 @@
+<center><a href="/?top"> TOP </a><a href="/?new"> NEW </a></center>
